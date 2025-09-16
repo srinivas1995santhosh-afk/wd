@@ -1,0 +1,1 @@
+I am trying to create a project in localrepo and then push it to github at the same time create an origin repo
